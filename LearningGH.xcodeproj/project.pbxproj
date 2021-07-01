@@ -11,6 +11,7 @@
 		4AF8AE4F268E513B00F4FAC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AF8AE4E268E513B00F4FAC8 /* ContentView.swift */; };
 		4AF8AE51268E513D00F4FAC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AF8AE50268E513D00F4FAC8 /* Assets.xcassets */; };
 		4AF8AE54268E513D00F4FAC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AF8AE53268E513D00F4FAC8 /* Preview Assets.xcassets */; };
+		4AF8AE5C268E574800F4FAC8 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AF8AE5B268E574800F4FAC8 /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4AF8AE50268E513D00F4FAC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AF8AE53268E513D00F4FAC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4AF8AE55268E513D00F4FAC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AF8AE5B268E574800F4FAC8 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				4AF8AE4C268E513B00F4FAC8 /* LearningGHApp.swift */,
 				4AF8AE4E268E513B00F4FAC8 /* ContentView.swift */,
+				4AF8AE5B268E574800F4FAC8 /* MyModel.swift */,
 				4AF8AE50268E513D00F4FAC8 /* Assets.xcassets */,
 				4AF8AE55268E513D00F4FAC8 /* Info.plist */,
 				4AF8AE52268E513D00F4FAC8 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AF8AE4F268E513B00F4FAC8 /* ContentView.swift in Sources */,
+				4AF8AE5C268E574800F4FAC8 /* MyModel.swift in Sources */,
 				4AF8AE4D268E513B00F4FAC8 /* LearningGHApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
